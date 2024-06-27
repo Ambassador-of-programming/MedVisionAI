@@ -1,0 +1,16 @@
+{
+    "sdfsdf": {
+        "login": "sdfsdf",
+        "password": "dsfsdf",
+        "fio": "sdf",
+        "date_of_birth": "dsf",
+        "type_user": "Мед. работник"
+    },
+    "aktan": {
+        "login": "aktan",
+        "password": "1",
+        "fio": "dd",
+        "date_of_birth": "dd",
+        "type_user": "Мед. работник"
+    }
+}
